@@ -9,6 +9,9 @@ import tailwind from '../assets/tailwind.png'
 import nodejs from '../assets/node.png'
 import github from '../assets/github.png'
 import cpp from '../assets/cpp.png'
+import nextjs from '../assets/nextjs.png'
+import prisma from '../assets/prisma.png'
+import typeScript from '../assets/typescript.png'
 
 const Experience = () => {
 
@@ -66,6 +69,24 @@ const Experience = () => {
             src: nodejs,
             title: 'Node JS',
             style: 'shadow-nodejs'
+        },
+        {
+            id:10,
+            src: nextjs,
+            title: 'Next Js',
+            style: 'shadow-cyan-500/50'
+        },
+        {
+            id:11,
+            src: typeScript,
+            title: 'TypeScript',
+            style: 'shadow-blue-500/50'
+        },
+        {
+            id:12,
+            src: prisma,
+            title: 'Prisma DB',
+            style: 'shadow-[#0199E5]/50'
         },
     ]
 

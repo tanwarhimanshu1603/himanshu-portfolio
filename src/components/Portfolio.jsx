@@ -1,22 +1,22 @@
 import React from 'react'
 import booklist from '../assets/booklist.jpeg'
-import happyEatings from '../assets/happyEatings.jpeg'
-import icoder from '../assets/icoder.jpeg'
+import promptopia from '../assets/promptopia.png'
+import socilaMediaClone from '../assets/socialMediaClone.png'
 
 const Portfolio = () => {
 
     const portfolios = [
         {
             id: 1,
-            src: icoder,
-            demo: 'https://tanwarhimanshu1603.github.io/icoder.github.io/',
-            code: 'https://github.com/tanwarhimanshu1603/icoder.github.io'
+            src: promptopia,
+            demo: 'https://next-js-promptopia-nu.vercel.app/',
+            code: 'https://github.com/tanwarhimanshu1603/Next_JS_Promptopia'
         },
         {
             id: 2,
-            src: happyEatings,
-            demo: 'https://happyeatings-1603.web.app/',
-            code: 'https://github.com/tanwarhimanshu1603/Project-HappyEatings-Using-React'
+            src: socilaMediaClone,
+            demo: 'https://social-media-clone-evzywqxct-tanwarhimanshu1603.vercel.app/',
+            code: 'https://github.com/tanwarhimanshu1603/socialMedia.clone'
         },
         {
             id: 3,
