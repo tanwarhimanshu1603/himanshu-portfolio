@@ -51,7 +51,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '/HTResume.pdf',
+            href: '/Himanshu Tanwar Resume.pdf',
             style: 'rounded-br-md'
         },
 
